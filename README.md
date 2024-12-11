@@ -1,1 +1,1 @@
-# think-space-yana
+# ThinkSpace: Yet Another Note App
